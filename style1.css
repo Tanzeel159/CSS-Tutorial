@@ -1,0 +1,12 @@
+/* ID selectors */
+#title
+{
+    color: darkgreen;
+    background-color: darkkhaki;
+
+}
+#footer
+{
+    color: darkorange;
+    background-color: darkorchid;
+}

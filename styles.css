@@ -1,9 +1,11 @@
-
-h2 {
+/* External CSS */
+h1,h2,p {
         color: darkgoldenrod;
         size: 40px;
     }
-h1{
-    color: aqua;
-    size: 40px;
-}
+
+/* CSS Rule */
+/* Selector(element,id,class) */
+/* declaration block */
+/* selector{Property:value} */
+/* semicolon after declaration */

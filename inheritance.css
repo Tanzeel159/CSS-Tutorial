@@ -1,0 +1,25 @@
+/* Inheritance */
+/* Child element inherits styles from the parent unless the child element has it's own */
+/* Only property they are overriding is changed rest of the properties are still inherited from the parent element */
+
+body{
+    color: pink;
+    background-color: black;
+    font-family: monospace;
+    line-height: 1.5;
+    font-size: 20px;
+    border: 3px solid white;
+
+}
+.special
+{
+    color: teal;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+h1
+{
+    color: tomato;
+    background-color: white;
+}

@@ -1,0 +1,21 @@
+/* Div and span are used for grouping*/
+.green
+{
+    color: green;
+    background-color: whitesmoke;
+}
+.red
+{
+    color: pink;
+    background-color:black;
+}
+span
+{
+    text-transform: uppercase;
+}
+.text
+{
+    color:yellow;
+    background-color:indigo;
+
+}

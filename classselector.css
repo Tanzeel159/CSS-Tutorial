@@ -1,0 +1,19 @@
+/* Class Selector */
+.green
+{
+    color: green;
+    background-color: whitesmoke;
+}
+.red
+{
+    color: red;
+    background-color: whitesmoke;
+}
+#title
+{
+    font-size: 50px;
+}
+.uppercase
+{
+    text-transform:uppercase;
+}

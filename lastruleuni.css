@@ -1,0 +1,44 @@
+/* Last rule, specificity, Universal Selector */
+p{
+    color: red;
+}
+
+/* 
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+p
+{
+    color: violet;
+}
+/* class has more specifity */
+.special
+{
+    color:wheat;
+}
+.heading
+{
+    color: turquoise;
+    background-color: black;
+}
+/* id is more specific  */
+#heading
+{
+    color: yellowgreen;
+    background-color: black;
+}
+/* Universal selector has least priority */
+*{
+    color:rosybrown;
+    background-color: yellow;
+}
